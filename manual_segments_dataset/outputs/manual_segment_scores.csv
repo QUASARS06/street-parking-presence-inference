@@ -1,0 +1,7 @@
+segment_id,segment_label,n_images,gmap_link,notes,single_first_sign_score,sign_max,meter_max,curb_max,combined_score,pred_label_at_015,single_pred_at_015,best_sign_image,best_meter_image,best_curb_image
+seg_000,1,5,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4,0.43078741431236267,0.5294560790061951,0.3938828706741333,0.6344396344396345,0.5294560790061951,1,1,seg_000_img_4,seg_000_img_1,seg_000_img_0
+seg_001,1,5,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2,0.0,0.0,0.7215259671211243,0.3594922100403924,0.43291558027267457,1,0,seg_001_img_0,seg_001_img_2,seg_001_img_4
+seg_002,1,5,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color,0.0,0.3952816426753998,0.2268214374780655,0.42602495543672014,0.3952816426753998,1,0,seg_002_img_2,seg_002_img_4,seg_002_img_1
+seg_003,1,5,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only,0.0,0.1476086974143982,0.0,0.4068891280947255,0.1627556512378902,1,0,seg_003_img_4,seg_003_img_0,seg_003_img_4
+seg_004,1,5,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter,0.0,0.0,0.7084057331085205,0.5386029411764706,0.4250434398651123,1,0,seg_004_img_0,seg_004_img_2,seg_004_img_3
+seg_005,1,5,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign,0.0,0.0,0.0,0.09314456035767511,0.037257824143070044,0,0,seg_005_img_0,seg_005_img_0,seg_005_img_4

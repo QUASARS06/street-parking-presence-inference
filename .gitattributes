@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+# Treat these as binary so git doesn't try to convert line endings
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.pt   binary
+*.pth  binary
+*.zip  binary
+*.heic binary
+*.HEIC binary
+*.pdf  binary

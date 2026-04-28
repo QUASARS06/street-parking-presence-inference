@@ -1,0 +1,31 @@
+segment_id,segment_label,segment_type,order_in_segment,image_id,image_path,gmap_link,notes
+seg_000,1,manual,0,seg_000_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_000/img_0.png,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_000,1,manual,1,seg_000_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_000/img_1.png,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_000,1,manual,2,seg_000_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_000/img_2.png,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_000,1,manual,3,seg_000_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_000/img_3.png,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_000,1,manual,4,seg_000_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_000/img_4.png,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_001,1,manual,0,seg_001_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_001/img_0.png,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_001,1,manual,1,seg_001_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_001/img_1.png,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_001,1,manual,2,seg_001_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_001/img_2.png,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_001,1,manual,3,seg_001_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_001/img_3.png,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_001,1,manual,4,seg_001_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_001/img_4.png,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_002,1,manual,0,seg_002_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_002/img_0.png,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_002,1,manual,1,seg_002_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_002/img_1.png,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_002,1,manual,2,seg_002_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_002/img_2.png,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_002,1,manual,3,seg_002_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_002/img_3.png,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_002,1,manual,4,seg_002_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_002/img_4.png,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_003,1,manual,0,seg_003_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_003/img_0.png,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_003,1,manual,1,seg_003_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_003/img_1.png,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_003,1,manual,2,seg_003_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_003/img_2.png,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_003,1,manual,3,seg_003_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_003/img_3.png,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_003,1,manual,4,seg_003_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_003/img_4.png,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_004,1,manual,0,seg_004_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_004/img_0.png,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_004,1,manual,1,seg_004_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_004/img_1.png,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_004,1,manual,2,seg_004_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_004/img_2.png,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_004,1,manual,3,seg_004_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_004/img_3.png,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_004,1,manual,4,seg_004_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_004/img_4.png,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_005,1,manual,0,seg_005_img_0,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_005/img_0.png,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign
+seg_005,1,manual,1,seg_005_img_1,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_005/img_1.png,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign
+seg_005,1,manual,2,seg_005_img_2,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_005/img_2.png,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign
+seg_005,1,manual,3,seg_005_img_3,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_005/img_3.png,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign
+seg_005,1,manual,4,seg_005_img_4,/Users/chiragjain/Downloads/manual_segments_dataset/segments/seg_005/img_4.png,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign

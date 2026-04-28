@@ -1,0 +1,7 @@
+segment_id,segment_label,gmap_link,notes
+seg_000,1,https://maps.app.goo.gl/dKYca6xeZJPx7uQs5,parking sign in img_0 ; img_2 (faint) ; img_3 ; img_4
+seg_001,1,https://maps.app.goo.gl/RhuFVk7CNMkDyefx8,only parking meter in img_0 ; img_1 (faint) ; img_2
+seg_002,1,https://maps.app.goo.gl/TUA8CzwMknVBon9N8,parking meter and sign and yellow color
+seg_003,1,https://maps.app.goo.gl/81ngyiw3meBztwyY8,curb color yellow only
+seg_004,1,https://maps.app.goo.gl/oT65e2Bj6QzUnDoB9,curb color yellow only and one parking meter
+seg_005,1,https://maps.app.goo.gl/3Fe4ap5AoRyLcLhD7,only one image_0 has sign

@@ -1,0 +1,36 @@
+{
+  "segment_size": 5,
+  "seed": 42,
+  "pool_sizes": {
+    "sign_pos": 4446,
+    "meter_pos": 50,
+    "curb_color_pos": 228,
+    "none": 41185
+  },
+  "type_counts": {
+    "none": 80,
+    "sign_only": 50,
+    "meter_only": 15,
+    "curb_only": 25,
+    "sign_meter": 15,
+    "sign_curb": 20,
+    "meter_curb": 10,
+    "sign_meter_curb": 10
+  },
+  "n_segments": 225,
+  "n_segment_images": 1125,
+  "segment_type_distribution": {
+    "none": 80,
+    "sign_only": 50,
+    "meter_only": 15,
+    "curb_only": 25,
+    "sign_meter": 15,
+    "sign_curb": 20,
+    "meter_curb": 10,
+    "sign_meter_curb": 10
+  },
+  "segment_label_distribution": {
+    "0": 80,
+    "1": 145
+  }
+}

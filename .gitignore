@@ -1,0 +1,57 @@
+# --------------- Python ---------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# --------------- OS / IDE ---------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --------------- Model weights & checkpoints ---------------
+# Distributed via GitHub Releases instead of git. See README for download URLs.
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.bin
+
+# --------------- Training / inference outputs ---------------
+runs/
+wandb/
+lightning_logs/
+mlruns/
+tb_logs/
+
+# --------------- Large derived artifacts ---------------
+# Rebuild from scripts; not worth tracking in git.
+*.npz
+*.npy
+*.pkl
+
+# --------------- Original-resolution / RAW image dumps ---------------
+# We ship downsampled JPGs in the repo; keep HEIC originals out of git.
+*.HEIC
+*.heic
+
+# --------------- Allowlist for small dataset samples ---------------
+# (Empty by default — uncomment / add patterns if you have folders that the
+#  catch-all rules above would otherwise exclude.)
+# !data/samples/**

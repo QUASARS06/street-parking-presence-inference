@@ -1,0 +1,29 @@
+{
+  "positive": [
+    "complementary--tow-away-zone--g1",
+    "information--no-parking--g3",
+    "information--parking--g1",
+    "information--parking--g2",
+    "information--parking--g3",
+    "information--parking--g45",
+    "information--parking--g5",
+    "information--parking--g6",
+    "regulatory--end-of-no-parking--g1",
+    "regulatory--no-parking--g1",
+    "regulatory--no-parking--g2",
+    "regulatory--no-parking--g5",
+    "regulatory--no-parking-or-no-stopping--g1",
+    "regulatory--no-parking-or-no-stopping--g2",
+    "regulatory--no-parking-or-no-stopping--g3",
+    "regulatory--no-stopping--g15",
+    "regulatory--no-stopping--g2",
+    "regulatory--no-stopping--g4",
+    "regulatory--no-stopping--g5",
+    "regulatory--no-stopping--g8",
+    "regulatory--parking-restrictions--g2"
+  ],
+  "exclude": [
+    "other-sign"
+  ],
+  "note": "negative = any image with zero positive-class objects after property and exclude filters. Excluded images should be dropped."
+}

@@ -1,0 +1,58 @@
+Using device: mps
+
+Epoch 1/12
+train_loss=0.7625 train_iou=0.2657 train_dice=0.3652 | val_loss=0.6183 val_iou=0.3267 val_dice=0.4333
+Saved new best model with val_dice=0.4333
+
+Epoch 2/12
+train_loss=0.6161 train_iou=0.3320 train_dice=0.4386 | val_loss=0.6104 val_iou=0.3423 val_dice=0.4478
+Saved new best model with val_dice=0.4478
+
+Epoch 3/12
+train_loss=0.5985 train_iou=0.3477 train_dice=0.4547 | val_loss=0.5789 val_iou=0.3675 val_dice=0.4737
+Saved epoch checkpoint: epoch_003.pt
+Saved new best model with val_dice=0.4737
+Saved visualization samples for epoch 3
+
+Epoch 4/12
+train_loss=0.6164 train_iou=0.3430 train_dice=0.4457 | val_loss=0.6053 val_iou=0.3664 val_dice=0.4607
+
+Epoch 5/12
+train_loss=0.6446 train_iou=0.3266 train_dice=0.4224 | val_loss=0.7332 val_iou=0.2773 val_dice=0.3548
+
+Epoch 6/12
+train_loss=0.6456 train_iou=0.3284 train_dice=0.4225 | val_loss=0.6270 val_iou=0.3429 val_dice=0.4375
+Saved epoch checkpoint: epoch_006.pt
+Saved visualization samples for epoch 6
+
+Epoch 7/12
+train_loss=0.6609 train_iou=0.3167 train_dice=0.4095 | val_loss=0.5833 val_iou=0.3724 val_dice=0.4717
+
+Epoch 8/12
+train_loss=0.6174 train_iou=0.3459 train_dice=0.4451 | val_loss=0.5684 val_iou=0.3838 val_dice=0.4851
+Saved new best model with val_dice=0.4851
+
+Epoch 9/12
+train_loss=0.6350 train_iou=0.3372 train_dice=0.4316 | val_loss=0.5895 val_iou=0.3683 val_dice=0.4672
+Saved epoch checkpoint: epoch_009.pt
+Saved visualization samples for epoch 9
+
+Epoch 10/12
+train_loss=0.6517 train_iou=0.3255 train_dice=0.4185 | val_loss=0.6157 val_iou=0.3542 val_dice=0.4515
+Saved epoch checkpoint: epoch_010.pt
+Saved visualization samples for epoch 10
+
+Epoch 11/12
+train_loss=0.6117 train_iou=0.3498 train_dice=0.4493 | val_loss=0.5825 val_iou=0.3616 val_dice=0.4672
+Saved epoch checkpoint: epoch_011.pt
+Saved visualization samples for epoch 11
+
+Epoch 12/12
+train_loss=0.6110 train_iou=0.3506 train_dice=0.4501 | val_loss=0.5748 val_iou=0.4077 val_dice=0.4964
+Saved epoch checkpoint: epoch_012.pt
+Saved new best model with val_dice=0.4964
+Saved visualization samples for epoch 12
+
+Training complete.
+Best val_dice: 0.4964
+Outputs saved to: outputs/curb_seg_run_v1
