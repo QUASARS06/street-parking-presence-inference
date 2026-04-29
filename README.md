@@ -1,12 +1,14 @@
 # Street Parking Presence Inference
 
 CS 766 *(Computer Vision)* final project at the **University of Wisconsin–Madison**, Spring 2026.
-Authors: Chirag Jain · Ritik Singh.
+
+**Authors:** Chirag Jain · Ritik Singh
 
 We infer whether a **street segment** allows on-street parking from street-level imagery, by combining three image-level cue detectors — **parking signs**, **parking meters**, and **curb structure + color** — and aggregating their evidence across multiple nearby views. Single-image inference is brittle because parking cues are sparse and viewpoint-dependent; multi-view aggregation lifts F1 from **0.32** (single-image baseline) to **0.83** on a controlled synthetic benchmark, and recovers **5 of 6** segments on a manually-collected real-world dataset.
 
-🌐 **Project website:** <https://quasars06.github.io/cs766-street-parking/>
-📺 **7-minute recorded talk** (slides + video) → see the [Documents tab](https://quasars06.github.io/cs766-street-parking/documents.html) of the website.
+**Project website:** <https://quasars06.github.io/cs766-street-parking/>
+
+**Watch presentation:** [Documents tab](https://quasars06.github.io/cs766-street-parking/documents.html) on the website (slides + video).
 
 ---
 
